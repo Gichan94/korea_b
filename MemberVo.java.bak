@@ -1,0 +1,6 @@
+class MemberVo 
+{
+	public static {
+		System.out.println("Hello World!");
+	}
+}
