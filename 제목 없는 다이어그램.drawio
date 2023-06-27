@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T02:18:34.735Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Whale/3.21.192.18 Safari/537.36" etag="mXfl2YKgNoetGz3hOU9c" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T02:19:59.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Whale/3.21.192.18 Safari/537.36" etag="BEFpwCpN6ad-Z3V8zw5u" version="21.5.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1154" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         </mxCell>
         <UserObject label="session open" placeholders="1" name="Variable" id="s-tgZXbwLpnM8gKIJpUk-11">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="164" y="126" width="80" height="20" as="geometry" />
+            <mxGeometry x="160" y="126" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="s-tgZXbwLpnM8gKIJpUk-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -58,7 +58,7 @@
         </mxCell>
         <UserObject label="Client Encrypt" placeholders="1" name="Variable" id="s-tgZXbwLpnM8gKIJpUk-15">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="162.17000000000002" y="205" width="80" height="20" as="geometry" />
+            <mxGeometry x="160.17000000000002" y="205" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="s-tgZXbwLpnM8gKIJpUk-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -82,7 +82,7 @@
         </mxCell>
         <UserObject label="session Encrypt" placeholders="1" name="Variable" id="s-tgZXbwLpnM8gKIJpUk-20">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="156.16999999999996" y="288" width="95.66" height="20" as="geometry" />
+            <mxGeometry x="153.16999999999996" y="288" width="95.66" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="s-tgZXbwLpnM8gKIJpUk-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -109,7 +109,7 @@
         </mxCell>
         <UserObject label="session Close" placeholders="1" name="Variable" id="s-tgZXbwLpnM8gKIJpUk-24">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="164" y="370" width="80" height="20" as="geometry" />
+            <mxGeometry x="160" y="370" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="s-tgZXbwLpnM8gKIJpUk-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -121,9 +121,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="Finish" placeholders="1" name="Variable" id="s-tgZXbwLpnM8gKIJpUk-26">
+        <UserObject label="Server Finish" placeholders="1" name="Variable" id="s-tgZXbwLpnM8gKIJpUk-26">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="156.33999999999997" y="433" width="85.66" height="20" as="geometry" />
+            <mxGeometry x="157.33999999999997" y="433" width="85.66" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="s-tgZXbwLpnM8gKIJpUk-27" value="Client" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -153,7 +153,7 @@
         </mxCell>
         <UserObject label="session open" placeholders="1" name="Variable" id="s-tgZXbwLpnM8gKIJpUk-32">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="584" y="126" width="80" height="20" as="geometry" />
+            <mxGeometry x="582" y="126" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="s-tgZXbwLpnM8gKIJpUk-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -180,7 +180,7 @@
         </mxCell>
         <UserObject label="Client Encrypt" placeholders="1" name="Variable" id="s-tgZXbwLpnM8gKIJpUk-36">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="582.1700000000001" y="205" width="80" height="20" as="geometry" />
+            <mxGeometry x="583.1700000000001" y="205" width="80" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="s-tgZXbwLpnM8gKIJpUk-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -217,9 +217,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="Finish" placeholders="1" name="Variable" id="s-tgZXbwLpnM8gKIJpUk-46">
+        <UserObject label="Server Finish" placeholders="1" name="Variable" id="s-tgZXbwLpnM8gKIJpUk-46">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="576.3399999999999" y="357" width="85.66" height="20" as="geometry" />
+            <mxGeometry x="582.3399999999999" y="357" width="85.66" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
